@@ -1,0 +1,29 @@
+.mainContent {
+	width: 40%;
+	height: 400px;
+	background: #f9f8f5;
+	margin: 0px auto;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 0px 0px 0px;
+}
+.mainContent button{
+    width: 100%;
+    background: white;
+    color: black;
+    border-radius: 20px;
+}
+.googleBtn{
+    color: green;
+    float: left;
+    font-size: 30px;
+    
+}
+.mainContent .btn-primary:hover {
+	color:black;
+	background-color: rgba(170, 162, 162, 0.288);
+    border-color:none;
+    
+}

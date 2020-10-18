@@ -1,0 +1,25 @@
+.backgroundMask{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../../images/mask.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.backgroundMask2{
+    background-image: none;
+
+}
+
+.bg-light {
+	background-color: #d2c9c93b !important;
+}
+
+.searchPart{
+    text-align: center;
+    width: 100%;
+    padding: 100px 0px;
+    height: 550px;
+}
+.searchPart .form-inline {
+	display:inline-flex;
+	flex-flow: row wrap;
+	align-items: center;
+}

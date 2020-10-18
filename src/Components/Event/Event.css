@@ -1,0 +1,29 @@
+.eventContentMain{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.content{
+    display: flex;
+    padding: 20px;
+    background: rgb(207, 207, 207);
+    margin: 10px;
+}
+.cancel{
+    width: 170px;
+    background: goldenrod;
+    border: 1px solid lightblue;
+    height: 30px;
+    border-radius: 5px;
+    float:right;
+}
+.content img{
+    width: 250px;
+    padding-right:15px ;
+}
+.content button {
+	margin-top: 168px;
+	margin-left: 110px;
+}

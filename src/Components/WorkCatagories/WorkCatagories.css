@@ -1,0 +1,29 @@
+.workCatagoriesMain{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: -170px;
+
+}
+
+.workContent{
+    width: 22%;
+   
+    position: relative;
+    padding: 10px;
+}
+.workContent img{
+    width: 100%;
+    
+}
+.workContent span {
+	position: absolute;
+	bottom: 10px;
+	width: 95.4%;
+	left: 10px;
+	height: 62px;
+	border: none;
+	
+	text-align: center;
+	padding-top: 18px;
+}
